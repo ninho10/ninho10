@@ -1,4 +1,4 @@
-### Olá, sou o Paulo Roberto
+### Olá, sou o Paulo Roberto - Busco uma vaga de ( Dev Front-end )
 
 
 - 🔭 Desenvolvedor Front-end ...
