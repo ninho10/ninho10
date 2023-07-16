@@ -1,4 +1,4 @@
-### Olá, sou o Paulo Roberto - Busco uma vaga de ( Desevolvedor Web )
+### Olá, sou o Paulo Roberto - ( Desevolvedor Web )
 
 
 - 🔭 Desenvolvedor Web ...
